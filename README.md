@@ -10,3 +10,14 @@ It uses machine learning models trained on real medical datasets to make predict
 
 # Tech Stack
 Tech Stack: Python, Streamlit, scikit-learn, pandas, numpy, pickle
+
+
+
+# Prediction: Positive
+# <img width="1012" height="826" alt="text detect +" src="https://github.com/user-attachments/assets/131ae350-069e-4890-9659-21e964e9bdee" />
+
+# Prediction: Negative
+# <img width="1025" height="838" alt="text detect -" src="https://github.com/user-attachments/assets/34975631-1910-4e1b-8fef-fda1c98668af" />
+
+
+
